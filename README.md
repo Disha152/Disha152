@@ -1,6 +1,8 @@
 # 💫 About Me:
 😄 Pronouns: She/Her<br>🔭 I’m currently working on an E-commerce app called MERCH.<br>🌱 I’m currently learning more about Artificial Intelligence.<br>👯 I’m looking to collaborate on Flutter Projects.<br>💬 Ask me about Flutter or tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend most of the time reading interesting articles.<br>🌐 Socials
 
+#Hacktoberfest-2023
+[![An image of @disha152's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/disha152)](https://holopin.io/@disha152)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ disha_g21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Disha Gupta) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Disha Disha) 
