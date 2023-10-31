@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: She/Her<br>🔭 I’m currently working on an E-commerce app called MERCH.<br>🌱 I’m currently learning more about Artificial Intelligence.<br>👯 I’m looking to collaborate on Flutter Projects.<br>💬 Ask me about Flutter or tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend most of the time reading interesting articles.<br>🌐 Socials
+😄 Pronouns: She/Her<br>🔭 I’m currently working on an Machine Learning project which is a recommendation generator system.<br>🌱 I’m currently interested in exploring new upcoming technologies.<br>👯 I’m looking to collaborate on  Projects.<br>💬 Ask me about Flutter/MERN or tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend most of the time reading interesting articles.<br>🌐 Socials
 
 #Hacktoberfest-2023
 [![An image of @disha152's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/disha152)](https://holopin.io/@disha152)
